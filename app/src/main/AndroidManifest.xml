@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".runner"></activity>
+        <activity android:name=".referral2"></activity>
+        <activity android:name=".history2" />
+        <activity android:name=".support2" />
+        <activity android:name=".review2" />
+        <activity android:name=".viewerrand2" />
+        <activity android:name=".runner" />
         <activity android:name=".viewerrand" />
         <activity android:name=".errand" />
         <activity android:name=".home" />

@@ -145,7 +145,6 @@
             android:layout_marginLeft="65dp"
             android:background="@drawable/input"
             android:ems="10"
-            android:hint="Please key in runner"
             android:inputType="textPersonName"
             android:paddingLeft="10dp" />
     </LinearLayout>
